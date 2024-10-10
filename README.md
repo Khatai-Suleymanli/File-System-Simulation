@@ -1,2 +1,20 @@
-# File-System-Simulation
-This C++ project simulates a simple in-memory file system. It allows users to create directories, manage files (create, read, delete), and simulate basic file system operations. The project showcases object-oriented design, memory management, and the implementation of a hierarchical directory structure.
+# FileSystem Simulation
+
+This project simulates a basic file system where you can:
+- Create directories
+- Create files
+- Read file contents
+- Delete files
+
+## How to compile and run
+
+1. Compile:
+```bash
+g++ src/*.cpp -o FileSystemSimulation
+```
+
+2. Run:
+```bash
+./FileSystemSimulation
+```
+
